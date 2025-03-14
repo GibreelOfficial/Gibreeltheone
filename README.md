@@ -1,6 +1,6 @@
 # Gibreeltheone
 <!-- Header -->
-<p align="center"><img src="./assets/bar.gif"></p>
+<p align="center"><img src="./assets/.Github banner.png"></p>
 <h2 align="center">Hey there, I'm Gibreel! 👋</h2>
 <p align="center">
   <a href="https://Gibreeltheone.dev"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio"></a> 
@@ -35,8 +35,6 @@ I'm Gibreel, a passionate software developer with experience in **Python, Django
 ![Ableton](https://img.shields.io/badge/-Ableton_Live-05122A?style=for-the-badge&logo=ableton-live&logoColor=000000)&nbsp;
 ![FL Studio](https://img.shields.io/badge/-FL_Studio-05122A?style=for-the-badge&logo=image-line&logoColor=F28E1C)&nbsp;
 ![Logic Pro](https://img.shields.io/badge/-Logic_Pro-05122A?style=for-the-badge&logo=apple&logoColor=FFFFFF)&nbsp;
-
-<img src="./assets/about_me.gif>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center"><b>Visitor's Count</b></p>
