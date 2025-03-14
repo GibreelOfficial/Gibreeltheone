@@ -1,6 +1,6 @@
 # Gibreeltheone
 <!-- Header -->
-<p align="center"><img src="./assets/.Github banner.png"></p>
+<p align="center"><img src="./assets/Github banner.png"></p>
 <h2 align="center">Hey there, I'm Gibreel! 👋</h2>
 <p align="center">
   <a href="https://Gibreeltheone.dev"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio"></a> 
