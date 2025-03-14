@@ -1,13 +1,12 @@
 # Gibreeltheone
 <!-- Header -->
-<p align="center"><img src="https://GibreelOfficial.dev/banner.png"></p>
+<p align="center"><img src="./assets/bar.gif"></p>
 <h2 align="center">Hey there, I'm Gibreel! 👋</h2>
 <p align="center">
-  <a href="https://GibreelOfficial.dev"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio"></a> 
-  <a href="https://twitter.com/GibreelOfficial"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
-  <a href="https://instagram.com/GibreelOfficial"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram"></a>
-  <a href="https://twitch.tv/GibreelOfficial"><img src="https://img.shields.io/badge/Twitch-black?style=for-the-badge&logo=twitch" alt="Twitch"></a>
-  <a href="https://youtube.com/@GibreelOfficial"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
+  <a href="https://Gibreeltheone.dev"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github" alt="Portfolio"></a> 
+  <a href="https://twitter.com/gibreeltheone"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://instagram.com/gibreeltheone"><img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram" alt="Instagram"></a>
+  <a href="https://youtube.com/@gibreeltheone"><img src="https://img.shields.io/badge/YouTube-black?style=for-the-badge&logo=youtube&logoColor=FF0000" alt="YouTube"></a>
 </p>
 
 <!-- Short introduction -->
@@ -36,6 +35,8 @@ I'm Gibreel, a passionate software developer with experience in **Python, Django
 ![Ableton](https://img.shields.io/badge/-Ableton_Live-05122A?style=for-the-badge&logo=ableton-live&logoColor=000000)&nbsp;
 ![FL Studio](https://img.shields.io/badge/-FL_Studio-05122A?style=for-the-badge&logo=image-line&logoColor=F28E1C)&nbsp;
 ![Logic Pro](https://img.shields.io/badge/-Logic_Pro-05122A?style=for-the-badge&logo=apple&logoColor=FFFFFF)&nbsp;
+
+<img src="./assets/about_me.gif>
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center"><b>Visitor's Count</b></p>
